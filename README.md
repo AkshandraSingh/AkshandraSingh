@@ -3,7 +3,7 @@
         alt="Typing SVG" />
 </div>
 
-<h1 align="center">A passionate software developer from India</h1>
+<h1 align="center">🌟 A passionate software developer from India 🌟</h1>
 
 <div align="center">
     👋 Hi there! I'm Akshandra Singh, a passionate Backend Developer on a journey to becoming a Full Stack Developer. 🚀
@@ -22,23 +22,12 @@
 <hr>
 
 <div align="center">
-    <h2>🧠 My Personal Projects 🧠</h2>
-    <p><b>Blog Application : </b>Blog Application! This platform lets you share and discover amazing blogs built with
-        Express.js and MongoDB. Express
-        yourself, connect with others, and find inspiration! 🚀</p>
-    <p><b>Death Note : </b>Death Note is a Node.js project designed for math enthusiasts. It offers easy access to a
-        curated collection of math
-        notes, fostering collaboration through comments and likes. Administrators enjoy seamless content management,
-        including
-        adding, deleting, and updating chapters, along with handling user messages! 🚀</p>
-    <p><b> Library Management System : </b>GitHub project is a Node.js-based application that simplifies library
-        operations. Users can sign up, log in, manage
-        profiles, write reviews, and search for books. Admins can manage books, categories, users, and track borrowed
-        books.
-        Built using Node.js, Express.js, and MongoDB, it offers data security and follows the MVC! 🚀</p>
-    <p><b>LinkUp : </b>LinkUp, where connections are forged, and online interactions come alive. This comprehensive
-        documentation offers an
-        in-depth look at the project's components, features, and how you can become an active contributor. 🤝🚀</p>
+    <h2>🚀 My Personal Projects 🚀</h2>
+    <p><b>Blog Application: </b>Express yourself and discover amazing blogs built with Express.js and MongoDB! 📝</p>
+    <p><b>Death Note: </b>Curated collection of math notes, fostering collaboration through comments and likes! ➕➖</p>
+    <p><b>Library Management System: </b>Simplify library operations with Node.js, Express.js, and MongoDB! 📚</p>
+    <p><b>LinkUp: </b>Forge connections and bring online interactions alive! 🤝</p>
+    <p><b>BankProX: </b>Modern banking solution built with TypeScript, Node.js, and MongoDB! 💰</p>
 </div>
 
 <hr />
@@ -69,5 +58,3 @@
 <br /><br />
 
 <hr />
-
-<br />
