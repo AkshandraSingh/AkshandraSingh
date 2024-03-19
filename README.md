@@ -23,6 +23,7 @@
 
 <div align="center">
     <h2>🚀 My Personal Projects 🚀</h2>
+    <p><b>arrayCraft: </b>NPM utility package for array and string manipulation in TypeScript ✨</p>
     <p><b>Blog Application: </b>Express yourself and discover amazing blogs built with Express.js and MongoDB! 📝</p>
     <p><b>Death Note: </b>Curated collection of math notes, fostering collaboration through comments and likes! ➕➖</p>
     <p><b>Library Management System: </b>Simplify library operations with Node.js, Express.js, and MongoDB! 📚</p>
